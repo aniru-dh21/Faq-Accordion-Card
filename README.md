@@ -2,6 +2,8 @@
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
+Live Demo: [Faq-Accordion-Card](https://aniru-dh21.github.io/Faq-Accordion-Card/).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
